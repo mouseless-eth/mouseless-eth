@@ -1,6 +1,6 @@
 ## 0xMouseLess
 
-20 year old univserity student that uses his time to develop onchain bots, but slowly transitioning into Dapp Development. **Web3 Full Stack Wannabe**
+Love for building and experiments. Currently developed multiple onchain bots, but slowly transitioning into Dapp Development. **Web3 Full Stack Wannabe**
 
 ### Web3 Technology Stack + Tools
 - Javascript/Typescript (scripting)
