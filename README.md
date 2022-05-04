@@ -3,7 +3,7 @@
 Love for building and experiments. Currently developed multiple onchain bots, but slowly transitioning into Dapp Development. **Web3 Full Stack Wannabe**
 
 ### Web3 Technology Stack + Tools
-- Javascript/Typescript (scripting)
+- Typescript/Javascript (scripting)
 - [Solidity](https://docs.soliditylang.org/en/v0.8.13/) (writing smart contracts)
 - [HardHat](https://hardhat.org/getting-started/) (dev environment for smart contract development)
 - [React](https://reactjs.org/docs/getting-started.html) (front end library)
