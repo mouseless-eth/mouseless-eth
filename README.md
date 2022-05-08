@@ -3,6 +3,7 @@
 Love for building and experiments. Currently developed multiple onchain bots, but slowly transitioning into Dapp Development. **Web3 Full Stack Wannabe**
 
 ### Web3 Technology Stack + Tools
+- [Foundry](https://book.getfoundry.sh/forge/index.html) (blazing fast dev toolchain for the EVM)
 - Typescript/Javascript (scripting)
 - [Solidity](https://docs.soliditylang.org/en/v0.8.13/) (writing smart contracts)
 - [HardHat](https://hardhat.org/getting-started/) (dev environment for smart contract development)
