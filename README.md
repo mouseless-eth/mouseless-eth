@@ -6,11 +6,9 @@ Love for building and experiments. Currently developed multiple onchain bots, bu
 - [Foundry](https://book.getfoundry.sh/forge/index.html) (blazing fast dev toolchain for EVM development)
 - Typescript/Javascript (scripting)
 - [Solidity](https://docs.soliditylang.org/en/v0.8.13/) (writing smart contracts)
-- [HardHat](https://hardhat.org/getting-started/) (dev environment for smart contract development)
 - [React](https://reactjs.org/docs/getting-started.html) (front end library)
 - [Express.js](https://expressjs.com/) (backend framework)
 - [Ethers.js](https://docs.ethers.io/v5/) (blockchain interaction)
-- [Ganache](https://github.com/trufflesuite/ganache-cli-archive) (cli based personal local blockchain simulator)
 - [FlashBots](https://docs.flashbots.net/) (sending private+bundled transactions straight to miners)
 
 
