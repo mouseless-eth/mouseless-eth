@@ -5,6 +5,7 @@ Love for building and experiments. Currently developed multiple onchain bots, bu
 ### Web3 Technology Stack + Tools
 - [Foundry](https://book.getfoundry.sh/forge/index.html) (blazing fast dev toolchain for EVM development)
 - Typescript/Javascript (scripting)
+- [Rust](https://www.rust-lang.org/) (Blazingly fast script)
 - [Solidity](https://docs.soliditylang.org/en/v0.8.13/) (writing smart contracts)
 - [React](https://reactjs.org/docs/getting-started.html) (front end library)
 - [Express.js](https://expressjs.com/) (backend framework)
