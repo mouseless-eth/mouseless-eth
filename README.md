@@ -4,7 +4,7 @@ Love for building and experiments. Currently developed multiple onchain bots, bu
 
 ### Web3 Technology Stack + Tools
 - [Foundry](https://book.getfoundry.sh/forge/index.html) (blazing fast dev toolchain for EVM development)
-- [Rust](https://www.rust-lang.org/) (Blazingly fast script)
+- [Rust](https://www.rust-lang.org/) (blazingly fast script)
 - [Huff](https://huff.sh/) (low level smart contract)
 - [Ethers.rs](https://github.com/gakonst/ethers-rs) (blockchain interaction)
 - Typescript/Javascript (scripting)
