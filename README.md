@@ -1,6 +1,6 @@
 ## 0xMouseLess
 
-Love for building and experiments. Currently developed multiple onchain bots, but slowly transitioning into Dapp Development. **Web3 Full Stack Wannabe**
+Love for building and experiments. Currently developed multiple onchain bots, but slowly transitioning into Dapp Development. **Onchain Mischief**
 
 ### Web3 Technology Stack + Tools
 - [Foundry](https://book.getfoundry.sh/forge/index.html) (blazingly fast dev toolchain for EVM development)
