@@ -3,17 +3,16 @@
 Love for building and experiments.
 
 ### Web3 Technology Stack + Tools
-- [Foundry](https://book.getfoundry.sh/forge/index.html) (blazingly fast dev toolchain for EVM development)
-- [Rust](https://www.rust-lang.org/) (blazingly fast scripting)
-- [Huff](https://huff.sh/) (writing low level smart contract)
-- [Ethers.rs](https://github.com/gakonst/ethers-rs) (blockchain interaction)
-- Typescript/Javascript (for general scripting/webdev work)
-- [Solidity](https://docs.soliditylang.org/en/v0.8.13/) (writing smart contracts)
-- [React](https://reactjs.org/docs/getting-started.html) (front end library)
-- [Express.js](https://expressjs.com/) (backend framework)
-- [Ethers.js](https://docs.ethers.io/v5/) (blockchain interaction)
-- [FlashBots](https://docs.flashbots.net/) (sending private+bundled transactions straight to miners)
-
+- [Foundry](https://book.getfoundry.sh/forge/index.html)
+- [Rust](https://www.rust-lang.org/)
+- [Huff](https://huff.sh/)
+- [Ethers.rs](https://github.com/gakonst/ethers-rs)
+- Typescript/Javascript 
+- [Solidity](https://docs.soliditylang.org/en/v0.8.13/)
+- [React](https://reactjs.org/docs/getting-started.html)
+- [Express.js](https://expressjs.com/) 
+- [Ethers.js](https://docs.ethers.io/v5/)
+- [FlashBots](https://docs.flashbots.net/)
 
 <!--
 **0xMouseLess/0xMouseLess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
