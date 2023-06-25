@@ -3,16 +3,14 @@
 Love for building and experiments.
 
 ### Web3 Technology Stack + Tools
-- [Foundry](https://book.getfoundry.sh/forge/index.html)
-- [Rust](https://www.rust-lang.org/)
-- [Huff](https://huff.sh/)
-- [Ethers.rs](https://github.com/gakonst/ethers-rs)
+- Foundry
+- Rust
+- Huff
 - Typescript/Javascript 
-- [Solidity](https://docs.soliditylang.org/en/v0.8.13/)
-- [React](https://reactjs.org/docs/getting-started.html)
-- [Express.js](https://expressjs.com/) 
-- [Ethers.js](https://docs.ethers.io/v5/)
-- [FlashBots](https://docs.flashbots.net/)
+- Solidity
+- React
+- Express.js
+- FlashBots
 
 <!--
 **0xMouseLess/0xMouseLess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
