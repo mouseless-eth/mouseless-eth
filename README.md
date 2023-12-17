@@ -1,6 +1,5 @@
-## 0xMouseLess
-
-Love for building and experiments.
+## mous
+love for building and experiments.
 
 ### Web3 Technology Stack + Tools
 - Foundry
